@@ -1,7 +1,7 @@
 # Dat-Thai
 My Software Engineer Portfolio
 
-<h1 align="center">Hi 👋, I'm Dat Thai</h1>
+<h1 align="center"> Dat Thai</h1>
 
 <h3 align="center">
   Software Engineer | Full Stack Developer
